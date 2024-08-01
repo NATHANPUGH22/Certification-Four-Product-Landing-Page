@@ -9,7 +9,7 @@
 }
 
 body {
-  background-color: #eee;
+  background-color: #000000;
   font-family: 'Lato', sans-serif;
 }
 
@@ -58,7 +58,7 @@ header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eee;
+  background-color: #000000;
 }
 
 @media (max-width: 600px) {
@@ -155,7 +155,7 @@ nav > ul {
   height: 30px;
   margin: 15px 0;
   border: 0;
-  background-color: #f1c40f;
+  background-color: ##FFA500;
 }
 
 #hero input[type='submit']:hover {
@@ -242,7 +242,7 @@ nav > ul {
 }
 
 .product > .level {
-  background-color: #ddd;
+  background-color: #000000;
   color: black;
   padding: 15px 0;
   width: 100%;
@@ -265,7 +265,7 @@ nav > ul {
 .product > button {
   border: 0;
   margin: 15px 0;
-  background-color: #f1c40f;
+  background-color: ##FFA500;
   font-weight: 400;
 }
 
@@ -288,7 +288,7 @@ nav > ul {
 
 footer {
   margin-top: 30px;
-  background-color: #ddd;
+  background-color: #000000;
   padding: 20px;
 }
 
@@ -306,5 +306,5 @@ footer > span {
   display: flex;
   justify-content: flex-end;
   font-size: 0.9em;
-  color: #444;
+  color: ##FFA500;
 }
